@@ -18,7 +18,7 @@ JavaScript: For the core functionality and dynamic behavior.
 
 ## 🚀 How to Use
 1. Clone this repository:
-git clone <repository-url>  
+git clone <https://github.com/TanishSrinivasan/TO_DO_LIST.git>  
 
 2. Open the index.html file in your browser.
 
